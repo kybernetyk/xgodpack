@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd /Users/kyb/xgodpack
+
+fx=(fx/*)
+snds=(success/*)
+
+#afplay "${fx[$((RANDOM % ${#fx[@]}))]}" </dev/null &>/dev/null &
+afplay "${snds[$((RANDOM % ${#snds[@]}))]}" </dev/null &>/dev/null &
+

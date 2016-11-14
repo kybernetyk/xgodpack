@@ -1,0 +1,10 @@
+#!/bin/sh
+
+cd /Users/kyb/xgodpack
+
+fx=(fx/*)
+snds=(fail/*)
+
+afplay "${fx[$((RANDOM % ${#fx[@]}))]}" &
+afplay "${snds[$((RANDOM % ${#snds[@]}))]}" &
+
