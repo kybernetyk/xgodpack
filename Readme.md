@@ -5,7 +5,7 @@ Press CMD B. Success? "ultrakill!" Fail? "humilating!"
 
 ## video demo
 
-https://www.youtube.com/watch?v=_aNKd-SlHtc
+[![Demonstration Video](http://img.youtube.com/vi/_aNKd-SlHtc/0.jpg)](http://www.youtube.com/watch?v=_aNKd-SlHtc "Demo Video")
 
 ## Setup:
 
