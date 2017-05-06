@@ -3,6 +3,10 @@
 
 Press CMD B. Success? "ultrakill!" Fail? "humilating!"
 
+## video demo
+
+https://www.youtube.com/watch?v=_aNKd-SlHtc
+
 ## Setup:
 
 1. clone this repo
